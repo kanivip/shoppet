@@ -6,5 +6,5 @@ Chức năng:</br>
 -Bình luận</br>
 -Tìm kiếm sản phẩm </br>
 -Đăng nhập, đăng kí </br>
-- Đặt hàng </br>
-- Trang admin(Quản lý sản phẩm,đơn hàng,thống kê...)
+-Đặt hàng </br>
+-Trang admin(Quản lý sản phẩm,đơn hàng,thống kê...)
